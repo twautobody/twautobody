@@ -106,7 +106,7 @@ font-family: 'Abril Fatface', cursive;
 	display: block;
 }
 .hvrbox .hvrbox-layer_top {
-	opacity: 0;
+	opacity: .8;
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -124,7 +124,7 @@ font-family: 'Abril Fatface', cursive;
 }
 .hvrbox:hover .hvrbox-layer_top,
 .hvrbox.active .hvrbox-layer_top {
-	opacity: 1;
+	opacity: 0;
 }
 .hvrbox .hvrbox-text {
 	text-align: center;
