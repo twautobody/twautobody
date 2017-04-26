@@ -84,7 +84,12 @@ font-family: 'Abril Fatface', cursive;
 	background-color: rgb(230,230,230);
 	text-align: center;
 }
-
+.main a{
+  color:red;
+}
+.main a:hover{
+	color: #750000;
+}
 /*Hover*/
 
 .hvrbox,
