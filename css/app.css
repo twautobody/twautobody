@@ -52,8 +52,17 @@ text-align:
 .header img{
   max-height: 26em;
 }
+.headerwork{
+  background-image: url("../images/carbon_fibre_@2X.png");
+}
 .headerwork img{
-    max-height: 37em;
+    max-height: 36em;
+}
+
+.orbit-image-2 {
+  width: 50%;
+  max-width: 50%;
+  margin: 0 25%;
 }
 
 /***********     Main    **********/
