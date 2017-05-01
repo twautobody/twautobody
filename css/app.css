@@ -14,11 +14,17 @@ text-align:
 .title-bar{
   z-index: 99999;
 	background-image: url("../images/carbonfiber.png");
-
 }
+
 .title-bar-title{
 	font-family: 'Abril Fatface', cursive;
 	font-size: 1.3em;
+}
+
+.workmenuicon{
+	width: 30%;
+	float: left;
+	padding-top: 2%;
 }
 .off-canvas{
 	background-color: black;
@@ -45,8 +51,9 @@ text-align:
 
 }
 .logoimg{
+	
 	width:15%;
-	margin: auto;
+	float: right;
 }
 /***********     Header     **********/
 .header img{
